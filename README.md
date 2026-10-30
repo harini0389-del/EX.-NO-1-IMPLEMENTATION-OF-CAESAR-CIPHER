@@ -49,11 +49,12 @@ int main()
 ```
 ## OUTPUT:
 ```
-Enter the plaintext: Hello
+Enter the plaintext: Harini
 Enter the key: 2
-Ciphertext: Jgnnq
+Ciphertext: Jctkpk
+
 ```
-<img width="430" height="96" alt="image" src="https://github.com/user-attachments/assets/628abdb8-b68a-402d-965a-2968a911699d" />
+<img width="702" height="156" alt="image" src="https://github.com/user-attachments/assets/5e626384-e2db-4b66-8518-dfe96f97174f" />
 
 ## RESULT :
  Thus the implementation of ceasar cipher had been executed successfully.
